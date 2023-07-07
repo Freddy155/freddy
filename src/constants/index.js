@@ -96,7 +96,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Native react.js Developer",
+    title: "React.js Developer",
     company_name: "Web Split",
     icon: web,
     iconBg: "#383E56",
