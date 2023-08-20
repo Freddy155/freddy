@@ -168,29 +168,9 @@ const projects = [
     image: carrent,
   },
   {
-    name: "Nova Academy",
-    description:
-      "Nova Academy is an online learning platform run by Nova Network Tech Agency that offers a lot of onlien courses (Currently undergoing maintenance)",
-    tags: [
-      {
-        name: "Nodejs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "PHP",
-        color: "green-text-gradient",
-      },
-      {
-        name: "WebRTC",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-  },
-  {
     name: "Net Node",
     description:
-      "Net Node is an online private social media platform that focus on privacy, security and freedom of speech. It does not collect users' data. (This Project is closed Source) ",
+      "Net Node is an online private social media platform that focus on privacy, security and freedom of speech. It does not collect users' data. ",
     tags: [
       {
         name: "PHP",
