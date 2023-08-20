@@ -19,7 +19,7 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
+  carret,
   jobit,
   tripguide,
   threejs,
@@ -165,7 +165,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: carret,
   },
   {
     name: "Net Node",
