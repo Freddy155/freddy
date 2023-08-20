@@ -150,7 +150,7 @@ const projects = [
   {
     name: "Nova Network",
     description:
-      "Nova Network Tech is an online agency that offer online learning services and other privacy related services like VPNs and cryptography tools",
+      "Nova Network Tech is an online agency that offer online learning services and other privacy related services like VPNs and cryptography tools. https://nova-network.tech",
     tags: [
       {
         name: "Nodejs",
@@ -170,7 +170,7 @@ const projects = [
   {
     name: "Net Node",
     description:
-      "Net Node is an online private social media platform that focus on privacy, security and freedom of speech. It does not collect users' data. ",
+      "Net Node is an online private social media platform that focus on privacy, security and freedom of speech. It does not collect users' data. https://netnode.nova-network.tech ",
     tags: [
       {
         name: "PHP",
